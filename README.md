@@ -1,12 +1,12 @@
-# Blogify: A Full-Stack MERN Blog Application
+# Blogs: A Full-Stack MERN Blog Application
 
-**Welcome to Blogify!**
+**Welcome to Blogs!**
 
-**Live Demo:** [Link to my deployed project](https://blogify-mern-app.onrender.com/)
+**Live Demo:** [Link to my deployed project](https://souravs-blogs.onrender.com/)
 
 This project demonstrates a full-stack blog application built with the MERN stack (MongoDB, Express, React, Node.js). It boasts a user-friendly interface, robust functionalities, and secure user management. 
 
-![home](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6b489d07-e437-46fd-b8e0-e1a3b4b12340)
+![home]()
 
 This README will guide you through the key features and functionalities of Blogify:
 
@@ -16,7 +16,7 @@ This README will guide you through the key features and functionalities of Blogi
 * `server`: Houses the Node.js backend code responsible for server-side logic and API endpoints.
 
 
-## Navigating Blogify
+## Navigating Blogs
 
 ### 1. **Home Page:**
 
