@@ -62,21 +62,22 @@ This page displays the details of an individual blog post, including the title, 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/blogify.git
+   git clone https://github.com/srv184/Sourav-s_Blogs.git
 
 
 2. **Install dependencies:**
 
    ```bash
-   cd blogify
+   cd Sourav-s_Blogs
    npm install
+   npm install --prefix client
 
 3. **Configure environment variables:**
 
 Create a `.env` file in the project root directory and add the following variables (replace with your actual values):
 
   
-    MONGODB_URI=mongodb://localhost:27017/<your-database-name>
+    MONGO=<your-mongodb-connection-string>
     JWT_SECRET=<your-jwt-secret>
     GOOGLE_CLIENT_ID=<your-google-client-id>
     GOOGLE_CLIENT_SECRET=<your-google-client-secret>
